@@ -1,0 +1,5 @@
+{
+    "cloud_data_url": "https://your-cloud-storage-link.com/data.json",
+    "default_map": "Los Santos",
+    "heatmap_threshold": 100
+}
