@@ -72,10 +72,10 @@ def generate_heatmap(data):
 
 ## 🖼 Examples
 📌 **Heatmap of high PvP activity areas:**  
-![Heatmap](assets/heatmap_example.png)  
+![Heatmap](1.jpg)  
 
 📌 **Business & trade route tracking:**  
-![Trade Routes](assets/traderoute_example.png)  
+![Trade Routes](2.jpg)  
 
 ---
 
